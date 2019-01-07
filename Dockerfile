@@ -4,6 +4,8 @@ RUN apt-get update && apt-get install -y \
     pkg-config \
     zip \
     g++ \
+    git \
+    libpython-dev \
     zlib1g-dev \
     unzip \
     python \
